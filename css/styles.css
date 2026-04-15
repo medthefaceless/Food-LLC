@@ -1,0 +1,73 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+#nav-list li {
+  border-top: 1px solid #e7e7e7;
+}
+
+#nav-list li a {
+  color: #557c3e;
+}
+
+h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+section {
+  background-color: #999999;
+  padding: 15px;
+  border: 1px solid black;
+  min-height: 1000px; 
+  margin-bottom: 20px;
+}
+
+#menu-tile p {
+  padding: 10px;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand span {
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* Adjust the h2 spacing so it's not tucked under the navbar */
+h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
